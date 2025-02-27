@@ -1,0 +1,205 @@
+﻿Gender,School_Year,School_Name,Use?,Classification,AVG_increase,AVG_decrease,Self_assessment,frequency_in1day,Another website,PrioritizeofChatGPTvsAnotherWebsite,Trust,Effective,Affect,Satisfied,Fit,Inspiration,thinking_influence,Manage_study_time,Replace_teacher,Save_time,Negative_affects,Make_lazy,improve_learning,Satisfied_with_results,HowChatGPTwork,Consistent_with_understanding,Contend_GG_vs_ChatGPT,Use_for_work,Make_question,String
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,5,2,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",1,4,4,5,5,4,1,0,1,0,3,3,1,4,4,0,4,4,1,1,không ý kiến
+0,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,,5,1,"Wikipedia.org, Google.com, Youtube.com",3,3,4,4,5,3,1,1,1,1,5,5,1,5,5,1,4,5,1,1,Không quan tâm
+1,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,4,5,3,3,Youtube.com,2,4,4,4,4,4,0,1,1,1,3,4,0,4,4,1,3,4,0,1,Đúng
+1,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,2,,1,1,Google.com,3,2,2,2,2,2,0,1,0,0,2,2,1,2,2,1,2,2,1,1,Làm sinh viên dựa dẫm vào nó và làm giảm khả năng suy nghĩ
+0,Năm 1,Đại học FPT (FPT University),1,1,4,,1,1,Google.com,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,Rất hài lòng
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,4,,3,2,"Wikipedia.org, Google.com, Youtube.com",2,3,3,2,3,3,0,0,0,0,2,2,0,3,3,1,3,3,1,1,Bình thường
+1,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),0,2,2,,1,1,Khác,3,1,1,1,3,3,0,0,0,1,3,3,1,3,3,1,3,3,0,1,Bình thường
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,3,3,Youtube.com,2,3,3,3,4,3,1,1,1,1,4,4,1,4,5,1,4,5,1,1,rất ổn
+0,Năm 2,Đại học Ngân hàng TP.HCM (Ho Chi Minh City University of Banking),1,3,2,,5,3,"Wikipedia.org, Google.com, Youtube.com",1,4,4,4,4,4,0,1,0,0,4,4,1,4,4,0,3,5,1,1,Không ý kiến
+0,Năm 1,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),1,3,2,,2,1,"Google.com, Youtube.com, Google Scholar",2,3,4,2,3,4,1,1,0,0,2,3,1,3,4,0,3,4,1,0,"Đó là điều tất nhiên, vì ChatGPT được cập nhật mỗi ngày"
+0,Năm 3,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),1,2,2,,3,3,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",3,3,3,3,3,4,0,0,0,0,4,4,1,4,3,1,4,1,1,1,Bình thường
+0,Năm 2,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),0,4,1,,1,1,"Google.com, Youtube.com",1,2,2,2,2,2,1,1,1,0,2,2,1,2,2,0,2,3,1,1,nothing
+0,Năm 3,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,4,5,5,5,2,"Wikipedia.org, Google.com, Google Scholar",2,4,5,3,3,3,1,0,1,0,4,3,0,5,5,1,3,3,1,1,Không có ý kiến
+1,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),0,3,2,,4,3,"Google.com, Google Scholar",3,4,4,4,4,4,1,1,0,0,4,5,1,3,4,1,4,5,1,1,"Đem lại lượng thông tin rất tốt, tuy nhiên việc sử dụng chatGPT làm sinh viên chở nên thụ động và quá phụ thuộc, thiếu sáng tạo và tư duy"
+1,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,1,,5,3,"Google.com, Youtube.com",1,3,5,5,3,4,0,1,1,0,4,5,1,3,3,0,3,5,1,0,.
+0,Năm 3,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,4,2,,3,2,"Wikipedia.org, Google.com, Youtube.com",1,4,4,3,5,5,1,1,1,0,3,3,0,4,5,1,5,5,1,1,Rất có ích cho việc tìm câu trả lời nhanh chóng nhưng đồng thời sẽ càng phụ thuộc vào nó
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,5,,5,4,Google.com,1,5,5,5,5,5,1,1,1,0,2,4,1,5,5,1,5,5,1,1,Trong tương lai có thể thay thế 1 vài vị trí công việc
+1,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,3,2,1,4,2,"Google.com, Youtube.com",2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,không
+1,Năm 2,Đại học Văn Lang (Van Lang University),1,3,2,,3,1,"Wikipedia.org, Google.com",3,4,4,3,4,4,0,0,0,1,4,3,0,4,4,1,3,4,0,1,.
+1,Năm 2,Đại học Văn Lang (Van Lang University),0,3,5,,3,1,"Google.com, Youtube.com",3,3,3,3,3,3,1,1,1,0,4,5,1,3,3,1,4,4,1,0,Đấy là 1 bước khá là thông minh và cải tiến
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,3,1,"Wikipedia.org, Google.com",3,3,3,4,2,3,0,0,0,0,3,3,1,2,3,1,4,2,1,1,Tôi nghĩ nó sẽ giúp con người học tập hiệu quả hơn
+0,Năm 2,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,4,,,4,1,"Google.com, Google Scholar",2,3,4,2,4,4,0,0,0,0,5,3,0,3,3,1,4,4,1,1,Tiện lợi cho việc cung cấp thông tin chính xác
+0,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),0,3,5,,4,2,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",2,3,3,3,3,3,1,0,1,0,3,2,0,4,4,1,4,1,1,1,.
+0,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,3,1,1,1,1,"Google.com, Youtube.com",3,1,2,1,3,4,0,0,0,0,3,3,0,4,4,1,3,2,1,1,Tốt
+0,Năm 3,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,2,2,2,1,Google.com,2,1,1,2,4,4,0,1,0,0,3,3,0,4,2,1,3,2,0,1,Ok
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,5,5,4,"Youtube.com, Google Scholar",2,3,3,5,5,3,0,0,1,1,4,1,1,3,3,1,1,1,0,0,Điều này rất tốt
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,3,2,"Wikipedia.org, Google.com, Youtube.com, Google Scholar, Khác",2,3,4,3,4,4,1,0,0,0,3,4,1,4,4,1,4,4,1,1,Tốt
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,,,2,1,"Wikipedia.org, Google.com, Youtube.com",2,3,3,3,3,3,0,0,0,0,3,3,0,3,3,0,3,3,0,0,goihoihoijoljio
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,,4,2,"Google.com, Youtube.com",3,4,4,4,3,4,1,1,1,0,4,5,0,4,4,1,4,5,0,1,Không rõ
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,3,5,,5,2,"Google.com, Youtube.com",3,5,4,3,5,5,1,1,1,1,5,5,0,5,5,1,3,5,0,1,ChatGPT vẫn còn được phát triển
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,1,2,2,1,2,Google.com,2,4,4,3,2,4,1,0,0,0,4,3,1,4,3,1,4,4,1,1,Không biết
+0,Năm 3,Đại học Kiến trúc TP.HCM (Ho Chi Minh City University of Architecture),0,4,4,5,5,4,Google.com,3,2,4,4,5,4,1,0,0,0,5,4,0,4,5,1,4,4,0,1,Rất tuyệt vời
+0,Năm 4,Đại học Kiến trúc TP.HCM (Ho Chi Minh City University of Architecture),1,4,2,3,4,2,"Youtube.com, Google Scholar",3,5,2,2,5,2,1,1,0,1,4,2,0,5,3,1,5,5,1,1,kh biết
+1,Năm 4,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),0,4,,4,5,4,Google Scholar,3,5,5,2,4,2,0,1,0,1,3,3,0,4,5,0,4,3,1,1,Ngon
+2,Năm 3,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),1,3,4,1,2,3,Google Scholar,2,4,4,4,4,5,0,0,0,1,4,4,0,3,4,0,2,3,0,0,Tôi nghĩ nó giúp sinh viên phát triển
+0,Năm 4,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),0,2,4,1,3,3,Khác,3,4,4,3,1,4,0,1,0,0,4,5,0,3,4,0,3,3,1,1,Thay thế gg
+1,Năm 4,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,2,1,4,3,1,"Wikipedia.org, Google.com, Youtube.com",2,3,5,1,1,1,1,1,0,0,2,3,1,2,4,1,2,3,0,0,Tôi thấy bình thường
+0,Năm 3,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,1,1,5,1,3,"Wikipedia.org, Youtube.com",2,3,1,1,2,3,1,1,1,1,4,3,1,1,2,1,3,5,0,1,Sinh viên yêu thích điều này vì nó hỗ trợ rất nhiều cho sinh viên
+1,Năm 3,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),0,3,4,1,2,3,Khác,1,3,1,2,4,1,1,1,0,1,4,1,0,2,3,0,4,4,1,0,cung cấp thông tin hữu ích
+0,Năm 4,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),0,2,2,3,1,2,Google.com,2,4,2,2,3,5,0,0,1,1,3,4,0,5,5,1,1,4,1,1,Kh biết
+1,Năm 4,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,3,1,3,3,3,"Wikipedia.org, Youtube.com",1,4,4,2,4,3,1,1,0,0,2,2,0,1,2,0,1,1,0,0,GPT giúp mình tán gái
+1,Năm 4,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),1,3,1,3,4,2,"Wikipedia.org, Google.com",2,1,4,1,3,3,0,0,1,1,1,2,1,3,4,0,3,5,1,1,10d
+0,Năm 4,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),0,1,1,4,2,1,"Wikipedia.org, Youtube.com",2,4,4,3,3,1,0,0,1,1,3,1,1,3,2,1,2,4,0,0,10d
+0,Năm 2,Đại học Công nghệ Thực phẩm TP.HCM (Ho Chi Minh City University of Food Industry),1,1,1,4,2,2,Youtube.com,2,3,5,1,4,3,0,0,0,0,2,2,0,1,3,0,3,1,0,1,Rất hữu ích
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,2,4,1,1,3,Google.com,3,2,3,1,4,4,1,1,1,1,4,2,1,2,3,1,4,1,0,0,Tôi thấy bình thường
+0,Năm 4,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),0,4,2,3,2,2,"Wikipedia.org, Google Scholar",1,1,2,1,4,4,0,1,1,0,2,1,1,1,3,0,4,3,0,0,Thông minh lên thì con người sẽ hưởng lợi
+1,Năm 1,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),1,4,2,,1,1,Google.com,3,3,3,2,2,1,0,1,1,0,3,4,1,2,2,1,2,2,1,0,No sẽ khiến thất nghiệp hàng loạt và khủng hoảng kinh tế
+0,Năm 3,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),0,3,2,3,1,4,Google.com,2,4,3,2,4,4,0,1,0,0,1,5,1,4,4,0,4,3,0,1,Không ảnh hưởng gì
+0,Năm 1,Đại học Ngoại thương TP.HCM (Ho Chi Minh City University of Foreign Trade),1,4,5,,3,2,"Google.com, Youtube.com, Google Scholar",1,4,4,3,4,3,1,1,1,0,4,5,0,4,5,1,5,4,1,1,Không
+1,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,4,5,,5,2,Google.com,3,5,5,5,5,5,0,0,1,1,4,4,1,4,4,1,4,4,1,0,Yes
+0,Năm 4,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),0,2,2,3,3,3,"Wikipedia.org, Google Scholar",2,3,2,4,5,3,1,0,0,0,3,1,1,4,1,1,5,4,1,1,không
+0,Năm 4,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,1,,4,2,3,Youtube.com,3,2,2,2,2,3,1,0,1,0,4,3,1,4,1,1,3,4,0,1,Tôi học toán dỡ GPT đã giúp tôi rất nhiều
+0,Năm 3,Đại học Tài chính - Marketing TP.HCM (Ho Chi Minh City University of Finance and Marketing),1,3,2,,4,3,Google.com,2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,Ok
+0,Năm 2,Đại học Ngoại thương TP.HCM (Ho Chi Minh City University of Foreign Trade),1,2,2,3,4,3,Google.com,2,3,2,3,3,3,1,1,1,1,3,3,1,3,2,1,3,3,1,1,Dù có nó hay không cũng phải đi kiếm tiền
+1,Năm 4,Đại học Sài Gòn (Saigon University),1,1,1,4,1,3,Youtube.com,2,3,2,1,2,2,1,1,1,1,4,2,1,3,3,1,2,5,1,1,Good
+0,Năm 3,Đại học Công nghệ Hóa học TP.HCM (Ho Chi Minh City University of Technology and Chemistry),1,1,4,1,1,3,Google Scholar,1,2,2,1,2,3,0,1,0,1,1,3,0,3,4,1,1,1,1,0,Nó rất ngu
+0,Năm 3,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,1,,1,2,1,Google.com,2,3,3,1,1,1,1,1,1,1,3,3,1,2,2,1,2,3,1,1,Kh ảnh hưởng gì
+1,Năm 3,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,1,1,4,1,2,Youtube.com,1,3,2,1,1,4,1,1,0,1,3,3,0,2,3,1,3,3,1,1,.
+1,Năm 2,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,2,2,,4,2,"Google.com, Google Scholar",2,5,5,5,5,5,1,1,1,1,4,4,1,4,4,1,3,3,1,1,HAhaa
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,4,3,Google.com,2,3,3,2,4,4,1,1,1,1,4,4,1,4,4,1,3,3,1,1,GPT đã giúp mình qua nhiều môn nó thật sự tốt
+0,Năm 4,Đại học Kiến trúc TP.HCM (Ho Chi Minh City University of Architecture),1,1,2,1,2,2,Google.com,1,3,4,2,3,2,0,1,1,0,2,5,1,2,3,0,3,2,1,0,Tôi thấy nội dung GPT không có nguồn mặc dù nó trả lời rất hay nhưng quy chung lại là không nên quá phụ thuộc vào nó
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,3,2,Google.com,1,1,1,3,3,3,1,1,1,1,3,3,1,3,3,1,5,3,1,1,GPT càng thông minh có thể làm con người thất nghiệp
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),0,2,,4,1,1,Google.com,1,4,3,5,4,1,1,1,1,0,1,2,1,4,2,1,2,3,0,1,Nó thông minh nhưng không có tiền mua bảng pluss huhu
+0,Năm 2,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),1,2,2,,2,1,Google.com,2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,Nó không có hiển thị ảnh hơi tiết nhưng nó rất thông minh
+0,Năm 3,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,2,2,3,4,2,Google.com,3,3,2,1,1,4,0,1,1,0,1,1,1,3,1,1,4,1,1,1,Thơm giòn béo ngậy
+1,Năm 3,Đại học Kiến trúc TP.HCM (Ho Chi Minh City University of Architecture),1,4,,2,4,2,"Google.com, Google Scholar",3,4,3,5,4,4,1,1,1,1,5,5,1,5,5,1,5,4,1,1,Có
+0,Năm 2,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),1,2,2,,3,1,Google.com,2,3,3,2,2,2,1,1,1,1,3,3,1,3,2,1,3,3,1,1,Hài lòng level max
+2,Năm 4,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),0,2,1,4,3,2,Google Scholar,1,1,3,1,3,1,1,1,1,0,3,1,1,3,3,1,5,2,1,0,.
+0,Năm 3,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,1,1,,1,1,Wikipedia.org,1,1,1,1,1,1,1,1,1,1,3,3,1,3,3,1,3,3,1,1,ok
+0,Năm 4,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),1,1,2,3,1,2,Youtube.com,2,3,2,1,3,3,1,0,0,0,4,4,0,5,3,1,4,2,0,0,Sao cũng được
+0,Năm 1,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,1,2,1,5,3,Google Scholar,1,4,3,1,3,4,1,0,1,1,1,3,0,2,3,1,2,2,1,1,Nếu GPT càng thông minh lên tôi sẽ kiếm được nhiều tiền từ nó vậy cứ để nó thông minh lên hehe
+0,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,2,2,"Wikipedia.org, Youtube.com",1,1,1,1,1,1,1,1,1,1,3,3,0,4,3,1,3,3,1,1,hmm
+0,Năm 2,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,2,2,,2,2,Google.com,2,3,3,2,2,2,1,1,1,1,2,2,1,3,3,1,3,3,1,1,chịu
+0,Năm 3,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,3,2,1,2,3,Google.com,2,5,4,1,4,3,1,1,1,1,2,1,0,4,4,1,3,3,0,0,kh ý kiến
+0,Năm 3,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,3,1,"Wikipedia.org, Google.com",2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,khong quan tâm
+0,Năm 4,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,3,2,2,4,4,Google.com,2,4,4,4,4,3,1,0,0,0,3,3,1,1,5,0,4,4,1,1,tôi chỉ cần sách không cần nó
+0,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,2,,2,3,1,Google.com,1,1,2,2,2,2,1,1,1,1,3,3,1,3,2,1,3,3,1,1,.
+0,Năm 1,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,3,2,1,4,3,Google.com,2,3,4,3,2,3,1,0,0,0,3,3,1,5,5,0,2,2,0,0,No
+1,Năm 4,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),0,3,2,1,4,3,Youtube.com,2,5,5,3,2,3,0,0,1,0,2,3,0,2,4,0,2,2,1,0,Nó sẽ khiến sinh viên làm biến và ỷ lại nhiều hơn nên có những biện pháp ngăn cấm sự phát triển của nó
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,2,2,,3,1,Google.com,2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,Ngủ đi quan tâm làm gì
+0,Năm 2,Đại học Khoa học Tự nhiên TP.HCM (Ho Chi Minh City University of Science),1,4,4,,3,3,"Wikipedia.org, Google.com, Youtube.com",1,4,4,2,4,3,1,1,0,0,4,5,1,4,4,1,2,5,1,1,Không
+1,Năm 3,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),0,1,2,1,1,3,Youtube.com,2,1,1,4,3,4,0,1,1,1,2,3,1,2,3,1,3,3,1,1,Bình thường
+1,Năm 3,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,3,2,,3,2,Google.com,2,3,3,2,3,4,0,1,0,1,2,3,0,3,2,0,3,2,0,1,tôi không ý kiến
+1,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),0,1,2,1,4,4,Google.com,2,4,3,3,1,2,1,1,0,1,4,3,0,3,4,0,2,2,0,0,Tôi thấy bình thường
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,4,4,,1,1,"Google.com, Youtube.com",3,3,2,2,2,3,1,1,1,1,2,2,1,2,3,0,2,3,0,1,Không
+0,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,1,1,3,3,4,Wikipedia.org,2,3,3,3,4,5,1,0,0,0,3,4,0,3,4,1,4,2,1,1,No problem
+0,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,4,2,1,2,2,Google Scholar,3,4,4,3,3,1,1,0,0,1,4,3,1,3,3,1,3,1,1,0,good
+1,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,2,4,1,3,3,Wikipedia.org,2,3,3,5,5,2,1,0,0,0,4,4,1,1,4,0,5,3,1,1,Nó sẽ giúp nhiều sinh viên năm 4 đỡ mệt với các báo cáo luận văn
+0,Năm 3,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,2,,4,2,"Google.com, Youtube.com",1,4,4,5,4,5,0,0,1,1,5,4,0,4,4,1,4,3,1,0,Có
+0,Năm 4,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,1,2,1,3,1,Wikipedia.org,1,4,4,2,3,1,1,1,1,0,1,2,0,3,1,0,5,3,1,0,.
+1,Năm 4,Đại học Sài Gòn (Saigon University),0,4,1,3,1,3,Youtube.com,1,3,4,3,3,4,1,1,1,1,3,3,1,2,2,1,2,4,1,0,Toi đồng ý với ý kiến này
+1,Năm 2,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),0,4,,1,1,1,"Google.com, Youtube.com",3,2,2,1,2,2,0,1,0,0,2,5,1,1,2,1,5,1,0,1,Không đúng lắm
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,4,4,,5,2,"Google.com, Youtube.com",1,5,5,2,5,5,1,1,1,0,4,3,1,5,4,1,5,5,1,1,Có
+0,Năm 1,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,3,Google.com,1,4,4,4,5,5,0,1,0,0,3,4,1,3,4,1,4,5,1,1,Đúng
+1,Năm 3,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,3,2,,3,2,"Wikipedia.org, Google Scholar",2,3,3,3,3,3,0,1,1,0,3,3,1,3,3,1,3,3,1,1,Đúng
+0,Năm 2,Đại học Nông Lâm TP.HCM (Ho Chi Minh City University of Agriculture and Forestry),1,3,2,3,4,3,"Google Scholar, Khác",3,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,10đ
+0,Năm 4,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,2,,4,1,"Google.com, Youtube.com",1,4,5,4,3,4,1,1,1,0,4,4,0,4,4,1,4,5,1,1,ChatGPT vẫn còn phát triển
+1,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,4,4,,5,4,"Google.com, Youtube.com",3,5,5,4,5,4,1,0,1,0,4,5,0,5,5,1,3,5,1,1,Có
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,2,2,3,2,2,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",3,2,2,2,4,4,0,0,1,1,3,2,1,2,2,0,4,3,1,1,Tuyệt hảo
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,1,1,Google.com,3,2,2,2,3,3,0,0,1,1,3,2,0,3,3,1,3,2,1,1,Mình thấy nó thật có ích trong việc tìm hiểu kiến thức mới
+1,Năm 2,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,4,2,3,4,2,"Google.com, Khác",2,4,3,2,3,2,1,1,0,0,3,3,1,3,3,1,3,3,1,1,....
+0,Năm 2,Đại học FPT (FPT University),1,3,4,,3,1,Google.com,2,3,3,2,4,2,1,1,1,0,3,3,1,3,2,1,2,1,0,1,.
+0,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,2,2,,1,3,Youtube.com,2,5,1,3,3,3,1,1,1,1,1,1,1,1,1,1,3,4,0,1,ok
+0,Năm 2,Đại học RMIT Việt Nam (RMIT University Vietnam),1,1,,1,5,4,Google.com,3,5,5,5,5,5,1,0,1,1,5,1,0,5,5,1,5,5,1,0,Bình thường
+1,Năm 2,Đại học Văn Lang (Van Lang University),1,4,2,,4,2,"Google.com, Google Scholar",2,3,3,3,3,3,0,1,1,0,3,3,0,4,3,1,3,2,1,1,thông tin nhanh nhưng cũng hình thành thói quen lười tư duy phản biện
+1,Năm 3,Đại học Tài chính - Marketing TP.HCM (Ho Chi Minh City University of Finance and Marketing),0,3,2,1,1,1,"Google.com, Youtube.com",3,2,2,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,Ổn
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),0,3,1,,3,1,"Wikipedia.org, Google.com, Google Scholar, Khác",1,3,3,3,3,3,0,1,1,0,3,3,1,3,3,1,3,3,1,1,Đồng ý với vấn đề này
+0,Năm 2,Đại học Khoa học Xã hội và Nhân văn TP.HCM (Ho Chi Minh City University of Social Sciences and Humanities),1,3,2,,4,1,"Google.com, Google Scholar",2,3,3,3,3,3,1,1,1,0,2,2,1,3,3,0,3,3,1,1,nó nên vậy
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,4,,3,3,Google.com,2,1,5,2,1,3,0,1,0,1,3,1,1,1,5,1,1,4,0,0,Tuyệt vời
+1,Năm 2,Đại học Tài chính - Marketing TP.HCM (Ho Chi Minh City University of Finance and Marketing),1,2,1,,1,1,Khác,1,1,2,2,2,2,0,0,0,1,3,3,1,3,2,0,1,3,0,1,Không nói gì thêm
+1,Năm 3,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),1,3,4,,4,4,Youtube.com,2,4,4,3,3,3,1,0,0,0,5,3,1,4,3,0,4,1,1,0,Bình thường
+0,Năm 3,Đại học Giao thông Vận tải TP.HCM (Ho Chi Minh City University of Transport),1,3,4,,5,2,Google.com,1,1,1,3,3,5,1,1,0,0,5,3,1,3,5,1,3,4,1,1,Tốt
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,2,,3,1,Google.com,2,3,3,5,3,3,1,1,1,0,4,4,1,3,3,0,3,3,1,1,Em mong nó đừng thay thế hoàn toàn con người
+0,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,2,2,,3,1,Khác,1,4,3,2,4,4,1,1,0,0,3,3,0,3,3,1,4,4,1,1,Không
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,4,,,1,1,"Wikipedia.org, Google.com, Youtube.com",3,3,2,3,3,3,0,0,0,0,3,4,1,3,3,0,3,3,1,1,Em không sử dụng ChatGPT
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,4,1,Google.com,1,4,3,3,3,3,1,1,0,0,2,4,1,2,3,1,3,5,1,0,Rất hay ạ
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,3,1,Google.com,3,3,5,3,4,5,1,1,1,0,4,4,1,5,5,1,5,5,1,1,tôi chưa nghĩ đến
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,2,5,4,Khác,2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,hjhj haha hoho
+2,Năm 4,Đại học Ngoại thương TP.HCM (Ho Chi Minh City University of Foreign Trade),0,3,5,,5,4,Google.com,3,5,5,5,5,5,1,1,1,1,5,5,1,5,5,1,5,5,1,1,Next
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,2,2,2,2,2,"Google.com, Youtube.com",2,2,2,3,3,4,1,0,1,0,2,2,1,4,4,1,3,3,1,1,Bình thường
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,2,,2,1,1,"Wikipedia.org, Google.com",3,1,1,1,2,1,0,0,0,1,2,1,0,1,1,1,2,1,0,0,Mình không nghĩ nó sẽ ngày càng thông minh hơn trong khi database của nó lại bị ảnh hưởng bởi chính người feed nó những data cho ChatGpt
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,1,,3,1,Google.com,2,5,5,3,5,3,1,0,1,0,3,1,0,3,5,1,3,5,1,1,Bình thường
+1,Năm 2,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,2,,3,1,Google.com,1,5,5,3,3,4,0,1,0,0,4,3,1,3,4,1,3,5,1,1,Chưa chắc
+1,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,2,2,2,3,1,"Google.com, Youtube.com, Google Scholar",1,2,2,3,3,3,0,0,0,0,3,3,1,4,3,1,3,3,1,1,Ổn với việc này
+1,Năm 2,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),1,3,1,,3,2,Google.com,2,4,4,4,4,4,1,0,1,0,3,4,0,4,4,1,3,3,1,1,Tốt
+1,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,1,,4,2,"Google.com, Youtube.com, Google Scholar",2,3,3,3,4,3,1,0,1,0,2,2,0,3,4,1,2,3,1,0,Thế sẽ giúp ích được cho việc giải quyết vấn đề
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,1,,5,1,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",3,2,3,5,3,3,1,1,0,0,2,2,1,3,2,1,4,2,1,1,trong tương lai rất khó có thể thay thể được so với việc tự tìm hiểu do lượng thông tin dữ liệu mà nó có cho các phiên bản thường rất khác nhau
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,1,,1,1,"Wikipedia.org, Google.com, Youtube.com",1,4,3,2,4,4,0,1,1,0,2,4,1,2,4,0,3,3,1,0,"Về mặt tích cực, ChatGPT hỗ trợ tìm hiểu các kiến thức ở mức cơ bản tới trung bình. Giúp tăng tốc độ và hiệu suất công việc. Về mặt tiêu cực, việc lạm dụng ChatGPT trong học tập sẽ làm giảm khả năng nghiên cứu chuyên sâu và tự học, hệ lụy ảnh hưởng về lâu dài là rất lớn."
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,1,1,1,1,1,Google.com,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Hehe
+0,Năm 4,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,2,2,,4,3,Google.com,1,3,3,3,3,3,1,1,0,0,3,4,1,3,4,1,3,3,1,1,Tốt
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,3,1,"Google.com, Youtube.com",1,3,3,3,4,4,1,0,1,0,3,2,0,4,4,1,4,3,1,1,kha la tien ich
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,3,,4,1,1,"Wikipedia.org, Google.com, Youtube.com, Khác",3,3,3,1,3,3,0,0,0,0,2,4,0,2,2,1,3,3,1,1,Khá quan ngại
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,1,,3,1,"Google.com, Youtube.com",1,3,4,4,4,4,0,1,1,0,3,2,0,2,3,0,4,3,1,1,Tốt
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,4,2,"Wikipedia.org, Google.com, Youtube.com",1,2,2,3,4,4,1,0,1,0,4,4,1,4,4,1,4,4,1,0,Ko ý kiến
+1,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,1,1,Khác,3,3,2,2,2,2,1,0,0,0,1,2,0,4,3,1,3,3,0,1,về mọi vấn đề trừ lịch sử
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,,4,3,Google.com,2,3,4,4,2,3,0,1,1,0,4,4,0,4,2,1,3,3,1,1,good
+1,Năm 3,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),1,3,2,,3,2,Khác,1,3,3,2,3,2,1,0,1,0,2,3,1,2,2,1,2,3,1,1,Nó giúp rất nhiều việc và có thể giải thích được nhiều vấn đề mà mọi người có thể đưa ra
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,3,,,1,1,Google.com,3,1,1,1,1,3,1,1,1,1,2,3,1,3,3,0,3,2,1,0,em ko dùng chat gpt sao em biết đc....
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,4,2,"Google.com, Youtube.com",2,4,3,3,3,3,1,1,1,0,2,3,0,3,3,0,4,4,1,1,Nó hay
+0,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),0,2,4,,4,4,"Google.com, Youtube.com, Google Scholar",1,1,5,1,5,5,1,1,1,1,3,2,1,3,3,0,3,3,1,0,Vhh
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,5,,5,3,Google.com,2,4,3,4,4,3,1,1,1,1,4,4,1,4,4,1,4,4,1,1,Nó khá là hiểu quả trong quá trình học.
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,3,5,,3,3,"Google.com, Khác",2,2,2,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,ok
+1,Năm 3,Đại học Tài chính - Marketing TP.HCM (Ho Chi Minh City University of Finance and Marketing),1,3,2,,3,1,"Wikipedia.org, Google.com",3,4,4,3,3,3,1,1,0,0,2,3,1,3,3,0,5,5,1,1,Các ý rõ ràng giúp chúng ta dễ hiểu hihi
+0,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,5,,5,2,Google.com,1,5,5,3,3,3,1,1,1,0,4,4,0,3,3,1,4,3,1,1,.
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,4,,3,1,Google.com,2,4,4,1,3,3,0,0,1,1,3,1,0,5,5,1,4,3,1,1,Good.
+1,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,3,,,3,1,"Google.com, Youtube.com, Google Scholar",3,3,3,5,3,3,0,0,1,0,4,5,1,3,3,0,3,1,1,1,rất tiện lợi
+0,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,5,2,Google.com,2,4,4,3,3,3,1,0,1,0,3,3,0,3,4,1,3,3,1,1,Đúng
+1,Năm 1,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,3,3,"Google.com, Youtube.com",3,3,3,1,5,5,1,1,1,0,4,3,0,4,4,1,5,5,1,1,Đúng
+1,Năm 2,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,2,Wikipedia.org,2,3,3,4,4,4,1,1,1,0,4,4,1,4,4,1,4,4,1,1,Đúng
+0,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,3,Google.com,1,4,4,4,4,4,1,1,1,0,5,4,1,4,4,1,4,3,1,1,Đúng
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,5,3,"Wikipedia.org, Google.com, Youtube.com, Khác",1,4,4,5,4,4,1,1,1,1,5,4,1,4,4,1,4,3,1,1,Chatgpt
+1,Năm 4,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,3,Youtube.com,2,3,3,4,4,4,1,1,1,0,4,4,1,4,4,1,4,4,1,1,Đúng
+0,Năm 3,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,3,Youtube.com,2,4,4,4,4,5,1,1,1,0,4,4,1,5,4,1,4,4,1,1,Đúng
+0,Năm 4,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,3,2,,4,3,Youtube.com,2,4,4,2,4,4,1,1,1,0,4,4,1,4,4,1,4,3,1,1,Đíng
+1,Năm 4,Trường Đại học Kinh tế – Luật (University of Economics and Law (UEL),1,4,2,,4,2,Youtube.com,2,4,4,4,3,4,1,1,1,0,4,4,1,4,5,1,4,4,1,1,Đúng
+0,Năm 2,Đại học Bách Khoa TP.HCM (Ho Chi Minh City University of Technology),1,2,1,,3,1,"Wikipedia.org, Google.com, Youtube.com",2,3,3,3,3,3,1,1,1,0,3,3,1,3,3,1,3,3,1,1,Tốt
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,2,1,Google.com,3,2,4,3,3,3,1,1,1,0,3,3,1,3,3,1,3,2,1,1,rất tôt
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,4,4,"Google.com, Youtube.com, Khác",2,3,3,2,3,3,1,1,1,0,3,3,0,4,3,1,4,3,0,1,Không quá ảnh hưởng
+0,Năm 3,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,3,4,,4,2,"Google.com, Youtube.com",2,3,2,3,3,3,0,1,1,0,3,3,1,3,3,1,3,2,0,1,K có ý kiến
+1,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,3,2,Google Scholar,2,2,3,1,3,2,0,0,0,1,1,3,1,2,2,0,2,2,0,1,Có
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,3,1,"Wikipedia.org, Google.com, Youtube.com",2,3,4,3,4,4,1,0,1,0,5,2,0,5,3,1,4,1,1,1,Thực chất chatGPT vẫn chỉ là AI việc nó thông minh hay không phụ thuộc vào cách mình sử dụng nó
+1,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,2,1,"Wikipedia.org, Google.com",1,2,2,3,4,4,1,1,1,0,3,3,1,3,3,1,4,4,1,1,Ok
+0,Năm 3,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),0,1,,,1,1,"Wikipedia.org, Google.com, Youtube.com",3,3,3,3,3,3,0,0,0,0,3,3,1,3,3,0,3,3,0,0,Không có ý kiến
+0,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,2,2,,3,2,"Google.com, Youtube.com",2,4,3,2,5,4,1,0,1,0,4,2,0,5,5,1,5,4,1,1,"Đúng, nhưng phải biết cách dùng câu hỏi nếu k thì kết quả trả lại sai lệch dẫn đến câu trả lời sai lệch."
+0,Năm 2,Đại học Ngoại thương TP.HCM (Ho Chi Minh City University of Foreign Trade),1,4,5,,5,1,Google.com,3,2,4,5,5,5,1,1,1,1,5,5,0,5,5,1,5,5,1,1,Tốt
+0,Năm 2,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,3,2,,3,2,"Google.com, Youtube.com",2,3,3,3,3,4,1,1,1,0,3,3,0,3,3,1,3,3,1,1,Rất tốt trong việc học tập và giúp giải quyết được những vấn đề mà mình khó giải quyết
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,4,2,,1,1,"Google.com, Google Scholar",3,3,3,2,3,3,1,1,1,0,2,3,0,2,2,1,3,3,1,1,Tốt
+1,Năm 1,Đại học Y Dược TP.HCM (Ho Chi Minh City University of Medicine and Pharmacy),1,3,2,,3,2,Google.com,2,3,3,3,3,3,1,1,1,1,3,3,1,3,3,1,3,3,1,1,Bình thường thoi
+0,Năm 2,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,2,,5,2,"Google.com, Youtube.com",3,4,4,2,5,5,1,1,1,0,5,1,0,5,5,1,5,5,1,1,Rất tốt
+0,Năm 3,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,3,4,,4,2,Google.com,2,3,3,3,3,3,1,0,0,0,3,3,0,3,3,1,3,3,1,1,Ngonn
+2,Năm 1,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,3,4,,4,1,Google Scholar,3,2,3,3,3,4,1,1,1,1,2,2,0,3,3,1,3,2,0,1,Có thể gọi là ngày cang phát triển nhưng nếu phát triển quá HSSV sẽ lạm dụng nhiều
+1,Năm 1,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,3,2,,2,1,"Google.com, Youtube.com, Google Scholar",1,3,3,3,3,3,0,0,0,0,3,3,0,3,3,0,3,3,1,1,Thông minh nhưng vẫn còn nhiều sai xót
+1,Năm 1,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,3,2,,5,2,Google.com,1,3,3,3,3,3,1,0,0,0,4,2,0,5,5,1,3,5,1,1,Này thì không đảm bảo vì developer của GPT không phát triển GPT nưac nên cũng không cập nhật những kiến thức mới
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,2,,,1,1,Google.com,3,1,1,1,1,1,0,0,0,0,1,1,0,1,1,0,1,1,0,1,Không biết sử dụng nên không tìm hiểu
+0,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,2,3,3,1,"Wikipedia.org, Google.com, Youtube.com, Google Scholar",1,2,3,5,3,3,1,1,1,0,3,5,1,3,3,0,1,1,0,0,"Con người trở nên thụ động, ảnh hưởng xấu tới sự phát triển của bộ não con người. Việc có trí tuệ AI là một điểm sáng lớn của con người. Tạo ra để sử dụng, nếu chúng ta sử dụng đúng cách và không lạm dụng gì vấn đề lạm dụng sẽ không diễn ra."
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,1,,1,1,"Google.com, Youtube.com, Google Scholar",3,1,1,1,1,1,0,0,0,0,1,5,1,1,1,0,1,1,1,0,Phải biết chọn lọc thông tin
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,1,,1,1,Google.com,2,3,3,2,4,3,1,1,0,0,2,4,0,3,4,1,4,5,1,1,ChatGPT đưa ra nội dung càng ngày càng thông minh là đúng
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,4,,2,1,"Wikipedia.org, Google.com, Google Scholar",3,2,2,2,2,2,0,0,0,0,2,2,1,2,2,1,2,1,1,1,nhưng nội dung khô khan không được như tư duy con người
+0,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,2,1,1,2,"Wikipedia.org, Google Scholar",3,2,3,5,4,4,0,1,1,0,5,5,1,4,4,1,4,4,1,1,Làm cho con người trở nên thụ động
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,2,,2,1,"Wikipedia.org, Google.com, Google Scholar",3,3,5,3,3,3,0,1,0,0,3,1,0,3,3,1,3,1,1,1,"Bên cạnh thông minh thì tôi nghĩ nó cẫn còn tồn tại những hạn chế, ví dụ như mỗi câu trả lời của cùng một câu hỏi nó sẽ khác nhau, câu hỏi sai dẫn đến câu trả lời cũng sai theo, vv"
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,,3,1,1,"Wikipedia.org, Google.com, Youtube.com",3,2,2,3,3,3,0,1,0,0,2,2,0,2,2,0,2,1,1,0,"Tùy vào mức độ câu hỏi và độ phủ sóng kiến thức mà nội dung của ChatGPT sẽ thuyết phục người tìm kiếm, từ đó người dùng sẽ nhận định đó có phải là nội dung thông minh hay không"
+0,Năm 1,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,,,3,1,"Google.com, Youtube.com",3,3,4,3,4,3,1,1,1,0,3,2,0,4,5,0,2,5,1,1,ChatGPT là AI mang tính đột phá của nhân loại. Việc AI càng ngày thông minh đồng nghĩa chúng ta đang phát triển nhưng không loại trừ việc AI quá thông minh rồi phản lại chúng ta nên mình không được để AI vượt qua trí thông minh của con người.
+1,Năm 2,Đại học Luật TP.HCM (Ho Chi Minh City University of Law),1,4,4,,3,3,Google.com,3,5,4,5,5,5,0,1,0,1,4,5,0,5,5,1,5,5,0,1,TOT
+1,Năm 3,Đại học Kinh tế TP.HCM (Ho Chi Minh City University of Economics),1,4,4,3,3,4,"Google.com, Youtube.com",2,5,5,5,5,5,0,0,1,1,5,4,1,4,1,0,5,5,0,0,CŨNG TÙY
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,4,,,1,1,"Google.com, Youtube.com, Google Scholar",3,3,3,1,3,3,0,1,0,0,4,5,1,3,3,0,3,1,0,0,"Sẽ ảnh hưởng đến khả năng tự sáng tạo của sinh viên ,sinh viên phụ thuộc quá nhiều vào chat GPT mà không có chọn lọc kỹ càng"
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,2,,3,1,"Wikipedia.org, Google.com, Google Scholar",3,3,3,2,2,4,0,0,0,0,3,3,0,3,2,1,3,1,1,1,Chat GPT là công cụ khá hữu ích. Nhưng không phải lúc nào nó cũng sẽ đúng. Vậy nên sv cần chọn lọc kĩ. Tránh sử dụng quá mức sẽ k tôt cho quá trình học tập
+1,Năm 2,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,2,,2,1,"Google.com, Youtube.com, Google Scholar",3,2,2,1,3,2,0,0,0,0,2,4,1,2,2,0,2,1,0,1,.
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,2,,2,1,"Google.com, Google Scholar",3,3,3,3,3,3,0,0,0,0,3,2,0,2,3,0,3,1,1,1,Không
+0,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,2,,1,1,Google.com,3,4,4,2,4,4,1,0,0,0,3,3,0,4,4,1,3,3,1,1,Chính xác
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,,,1,1,"Google.com, Youtube.com, Google Scholar",3,2,2,1,2,2,0,0,0,0,3,4,1,2,2,0,4,2,0,1,Nghe rất hợp lí nhưng vẫn sai
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,1,,1,1,Google.com,3,2,3,4,3,4,0,1,0,0,4,4,1,3,3,0,3,3,1,0,Sinh viên phụ thuộc nhiều vào chat gpt
+0,Năm 4,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),0,3,,,1,1,Wikipedia.org,3,2,2,1,2,2,0,1,0,0,2,2,1,2,3,1,2,1,1,1,Không hẳn - do cá nhân người dùng đọc cảm thấy nó hợp lý thôi!
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,4,,3,1,"Google.com, Google Scholar",3,2,2,1,2,2,0,0,0,0,2,2,0,2,2,1,2,2,1,0,nó có thể giúp đưa ra được cài cần nhưng vẫn cần phải xử lý lại
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),1,3,,1,1,1,"Google.com, Youtube.com, Google Scholar",3,1,1,1,1,1,0,1,0,0,2,1,0,1,1,1,1,1,0,0,Nhưng những nội dung đó vẫn không có nguồn rõ ràng
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,4,2,,4,2,Youtube.com,1,4,4,4,3,4,0,0,1,0,4,3,1,4,4,1,4,5,0,1,Tôi đồng ý
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,1,,2,1,Google.com,3,3,3,3,3,3,1,1,0,0,3,3,1,3,3,1,3,3,1,1,Đúng
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,4,,4,1,"Google.com, Youtube.com, Google Scholar",3,1,3,3,3,3,0,1,0,1,3,5,1,3,3,1,3,1,0,1,h
+0,Năm 2,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,4,4,,4,2,"Google.com, Youtube.com",1,4,4,5,4,5,1,1,1,0,4,5,0,5,4,1,5,5,0,1,ChatGPT vẫn còn được phát triển
+1,Năm 2,Đại học Sư phạm TP.HCM (Ho Chi Minh City University of Education),1,4,5,,4,2,"Wikipedia.org, Google.com, Youtube.com",1,5,5,3,4,3,1,1,1,0,5,4,0,3,4,1,5,5,1,1,Không ý kiến
+0,Năm 2,Đại học Công nghiệp TP.HCM (Ho Chi Minh City University of Industry),1,4,5,,4,2,"Google.com, Youtube.com",1,5,5,2,4,4,1,0,1,1,5,5,0,3,5,1,5,5,0,1,Tôi cũng nghĩ vậy
+0,Năm 2,Đại học Sài Gòn (Saigon University),1,3,2,,4,1,"Wikipedia.org, Google.com, Youtube.com",1,5,5,4,3,4,1,1,1,1,4,4,0,4,3,1,4,5,1,1,ChatGPT chỉ sử dụng những dữ liệu do con người train nên độ thông minh sẽ ở 1 mức độ nhất định
+0,Năm 3,Đại học Công nghệ Thông tin TP.HCM (Ho Chi Minh City University of Information Technology),1,3,1,,4,2,"Google.com, Youtube.com",1,5,5,3,5,5,1,1,1,0,2,5,0,5,5,1,5,5,0,1,ChatGPT vẫn đang được phát triển nên nội dung của nó sẽ càng thông minh hơn theo thời gian
+1,Năm 1,Đại học Sư Phạm Kỹ Thuật TP.HCM (Ho Chi Minh City University of Technology and Education),0,3,,,1,1,"Wikipedia.org, Google Scholar",3,2,2,2,3,2,0,1,0,0,3,3,1,2,2,0,2,3,0,1,Sẽ ảnh hưởng đến việc đánh giá kết quả học tập của học sinh
+0,Năm 3,Đại học Công nghệ TP.HCM (Ho Chi Minh City University of Technology),1,3,,2,4,1,"Wikipedia.org, Google.com",1,3,3,3,3,3,0,1,0,0,3,5,1,4,3,1,3,5,1,1,Bình thường
